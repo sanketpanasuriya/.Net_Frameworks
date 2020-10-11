@@ -1,0 +1,11 @@
+D:\5th_sem_.NET\DialogExample\DialogExample\bin\Debug\DialogExample.exe
+D:\5th_sem_.NET\DialogExample\DialogExample\bin\Debug\DialogExample.pdb
+D:\5th_sem_.NET\DialogExample\DialogExample\obj\Debug\DialogExample.csprojAssemblyReference.cache
+D:\5th_sem_.NET\DialogExample\DialogExample\obj\Debug\DialogExample.Form1.resources
+D:\5th_sem_.NET\DialogExample\DialogExample\obj\Debug\DialogExample.Modal.resources
+D:\5th_sem_.NET\DialogExample\DialogExample\obj\Debug\DialogExample.Modeless.resources
+D:\5th_sem_.NET\DialogExample\DialogExample\obj\Debug\DialogExample.Properties.Resources.resources
+D:\5th_sem_.NET\DialogExample\DialogExample\obj\Debug\DialogExample.csproj.GenerateResource.cache
+D:\5th_sem_.NET\DialogExample\DialogExample\obj\Debug\DialogExample.csproj.CoreCompileInputs.cache
+D:\5th_sem_.NET\DialogExample\DialogExample\obj\Debug\DialogExample.exe
+D:\5th_sem_.NET\DialogExample\DialogExample\obj\Debug\DialogExample.pdb
